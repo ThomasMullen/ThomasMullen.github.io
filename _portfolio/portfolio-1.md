@@ -4,4 +4,4 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A neuroscientist with a physics background in the Vision in Action lab supervised by Michael Orger, Champalimaud Centre for the Unknown. My Ph.D. program is coordinated by the Zenith European Training Network which is funded by the Marie Skłodowska-Curie grant. This international network promotes collaboration throughout different labs and diversity in the field of neuroscience. With data science experience in government as well as an agile start-up, I will be transfering my project management and statistical skills into academic research, in order to effectively tackle unsolved problems.. 
