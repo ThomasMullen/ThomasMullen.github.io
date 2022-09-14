@@ -88,9 +88,9 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "thomasmullen96@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  https://www.researchgate.net/profile/Thomas_Soares_Mullen
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/Tom_SM_Neuro/"
   codepen          :
   dribbble         :
   flickr           :
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/thomas-soares-mullen"
+  orcid            : "https://orcid.org/0000-0002-3695-4477"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://zenith-etn.com/students/mullen" 
+  stackoverflow    : "https://stackoverflow.com/users/19998227/tmullz" 
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
