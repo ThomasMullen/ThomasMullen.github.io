@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,10 +11,6 @@ I received the Master degree in Physics in 2019 from the Department of Physics a
 
 My main research interests are in complex systems and control theory. Particularly, how we can approximate them to be in linear regimes. A way to gain interpretation is by linearly approximating the dynamics. Linear systems are based on superpositions of different modes; therefore, it is very easy to control and understand that give rise to complex dynamics. Methods such as time-embedding can capture rich dynamics, while eigen-analysis provides a way to gain insights into the system through analysis of the principal components. In my current PhD work, I have applied dynamical systems approaches to understand the movements of larval zebrafish and to infer control models, which can be compared with neural data. I am particularly interested in how persistent internal states give rise to variability in responses, and how we can use modeling approaches to infer the underlying latent variables. To this end, I have begun recording whole-brain calcium imaging data, using light-sheet microscopy, in a paradigm where head-fixed larval zebrafish transition between different locomotor states.
 
-Awards
----
-
-
 
 <!-- Create content & metadata
 ------
@@ -23,8 +18,8 @@ For site content, there is one markdown file for each type of content, which are
 
 **Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
 How to edit your site's GitHub repository
 ------
@@ -35,4 +30,3 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
