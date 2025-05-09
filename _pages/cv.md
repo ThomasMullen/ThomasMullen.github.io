@@ -21,7 +21,7 @@ Work experience
   * Method of clustering neural populations in wholebrain recordings
   * Supervisor: Ruben Portuguese
 
-* Summer 2022: IMBIZO Student
+* Summer 2022: [IMBIZO](https://imbizo.africa/) Student
   * Simons Computational Neuroscience School
   * Introduction to Computation Neuroscience
   * Supervisor: Tim Vogels
