@@ -12,33 +12,37 @@ redirect_from:
 Education
 ======
 * M.Phys. in Physics, University of Manchester, 2019
-* Ph.D in Neuroscience, Champalimaud Center of the Unknown, 2024 (expected)
+* Ph.D in Neuroscience, Champalimaud Center of the Unknown, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2023: Visiting Scientist
+  * TUM, Munich, Germany
+  * Method of clustering neural populations in wholebrain recordings
+  * Supervisor: Ruben Portuguese
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: IMBIZO Student
+  * Simons Computational Neuroscience School
+  * Introduction to Computation Neuroscience
+  * Supervisor: Tim Vogels
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring/Summer 2020: Data Scientist
+  * Department of Transport, UK Civil Service
+  * In-house consultancy team
+  * Supervisor: Kian Chapman-Raafat
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python (Jax, Pytorch, Numpy, Matplotlib)
+  * C++
+  <!-- * OCaml -->
+  * Latex
+* Tools
+  * Git, Docker, Slurm
+* Languages
+  * English (Native), Portuguese (B1)
+
 
 Publications
 ======
@@ -52,12 +56,20 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-founder of Science on the Walls
+* Zenith-ETN student representative
+
+Funding and awards
+======
+
+* Neural control of movement scholarship (~€2k)
+  * 2025
+* European Training Network Grant (~€24k / yr)
+  * 2020-2024
+* ESTRO 2020 won Best Poster Awards (Physics category) (£1k)
+  * 2020
+* Manchester Science and Engineering Excellence scholarship (£1k / yr)
+  * 2015-2019
