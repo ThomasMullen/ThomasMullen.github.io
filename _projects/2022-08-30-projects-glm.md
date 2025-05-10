@@ -1,7 +1,7 @@
 ---
 layout: single
+permalink: /projects/glm/
 title:  "Probabilistic Spiking Model"
-permalink: /projects/2022-08-30-glm/
 tags:
   - Generalized linear model
   - Probability
