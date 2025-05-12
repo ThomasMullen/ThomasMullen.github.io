@@ -2,7 +2,7 @@
 layout: single
 permalink: /projects/glm/
 title:  "Probabilistic Spiking Model"
-collection: project
+collection: projects
 tags:
   - Generalized linear model
   - Probability
