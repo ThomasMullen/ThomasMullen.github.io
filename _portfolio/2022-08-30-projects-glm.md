@@ -1,8 +1,7 @@
 ---
-layout: single
-permalink: /projects/glm/
 title:  "Probabilistic Spiking Model"
-collection: projects
+excerpt: "Simulate different neural spiking behaviour via generalised linear model"
+collection: portfolio
 tags:
   - Generalized linear model
   - Probability
