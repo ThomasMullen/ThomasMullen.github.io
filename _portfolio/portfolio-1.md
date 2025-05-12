@@ -2,9 +2,6 @@
 title:  "Probabilistic Spiking Model"
 excerpt: "Simulate different neural spiking behaviour via generalised linear model"
 collection: portfolio
-tags:
-  - Generalized linear model
-  - Probability
 ---
 
 My summer project involved fitting a generalised linear model (GLM) to generated spiking data. I aimed to learn how to fit a GLM to data from scratch and understand how it can be used to simulate and predict spiking activity in response to external inputs corresponding to sensory stimuli. In this article, I will outline the theory behind GLMs and demonstrate the results of applying this method to simulated data.
