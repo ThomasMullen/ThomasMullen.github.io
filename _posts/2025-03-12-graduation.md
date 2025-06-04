@@ -10,7 +10,6 @@ tags:
 <div style="text-align: center;">
   <img src="/images/defense/thesis_defense.jpg" alt="defense" width="450"/>
 </div>
-
 I'm thrilled to share that I successfully defended my PhD in Lisbon at the Champalimaud Foundation! 
 
 I want to extend my heartfelt thanks to my outstanding jury members:
