@@ -9,11 +9,12 @@ tags:
   - Jaxx
 ---
 
-![Diffilqrax](/images/diffilqrax/diffilqrax_logo_dm.png "Jax-based python package implementing fully differentiable iLQR algorithm, used for optimal control and neural networks.")
-
-<!-- <div style="text-align: center;">
+<div style="text-align: center;">
   <img src="/images/diffilqrax/diffilqrax_logo_dm.png" alt="Mode evolution" width="250"/>
-</div> -->
+</div>
+Jax-based python package implementing fully differentiable iLQR algorithm, used for optimal control and neural networks.
+
+<!-- ![Diffilqrax](/images/diffilqrax/diffilqrax_logo_dm.png "") -->
 
 ## What is DiffiLQRax?
 
