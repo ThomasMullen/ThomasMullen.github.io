@@ -1,6 +1,6 @@
 ---
 title:  "Diffilqrax: Differentiable optimal control package published on github"
-excerpt: "Jax-based python package implementing fully differentiable iLQR algorithm, used for optimal control and neural networks."
+excerpt: "Jax-based python package implementing fully differentiable iLQR algorithm, used for optimal control and neural networks." 
 permalink: /posts/2024/12/blog-diffilqrax/
 date: 2024-12-18
 tags:
@@ -9,10 +9,11 @@ tags:
   - Code
   - Jaxx
 ---
+![Diffilqrax](/images/diffilqrax/diffilqrax_logo_dm.png "Differentiable iLQR repo")
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="/images/diffilqrax/diffilqrax_logo_dm.png" alt="Mode evolution" width="250"/>
-</div>
+</div> -->
 
 ## What is DiffiLQRax?
 
