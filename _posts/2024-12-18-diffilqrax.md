@@ -14,7 +14,6 @@ tags:
 </div>
 Jax-based python package implementing fully differentiable iLQR algorithm, used for optimal control and neural networks.
 
-<!-- ![Diffilqrax](/images/diffilqrax/diffilqrax_logo_dm.png "") -->
 
 ## What is DiffiLQRax?
 

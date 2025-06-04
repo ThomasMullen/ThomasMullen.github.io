@@ -8,8 +8,10 @@ tags:
   - Summer School
 ---
 
-
-![Imbizo Group](/images/ImbizoGroupPic.jpeg "Group photo on day trip at Kirstenbosch National Botanical Garden")
+<div style="text-align: center;">
+  <img src="/images/ImbizoGroupPic.jpeg" alt="ceramics" width="450"/>
+</div>
+Group photo on day trip at Kirstenbosch National Botanical Garden
 
 In August 2022 I attended the IBRO-Simons Computational Neuroscience (Imbizo) summer school. This was a teaching program aimed at diversifying the neuroscience community by inviting African and International students to study together at a school in Noorhoek, South Africa. This has been a truly inspirational experience. I have been exposed to so many different cultures and heard so many different journeys in research. From this I have recognised the privilege European scientists have regarding facilities, funding and accessibility.
 
